@@ -1,4 +1,10 @@
-p { color: red; }
+p { color: white; }
+h1 {color: white}
+h2{color: white}
+h3{color: white}
+ol {color: white}
+
+container: {background: black}
 
 img {  
 width: 216px;
@@ -9,3 +15,8 @@ basic {
   display: flex;
   align: center
 }
+
+info {
+  padding: 100px;
+}
+
