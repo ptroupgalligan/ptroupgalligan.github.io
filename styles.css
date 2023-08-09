@@ -1,1 +1,6 @@
 p { color: red; }
+
+img {  
+max-width: 30%;  
+height: auto;  
+}  
