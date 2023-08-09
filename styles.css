@@ -4,3 +4,8 @@ img {
 width: 216px;
 height: 338 px; 
 }  
+
+basic {
+  display: flex;
+  align-items: center; 
+}
