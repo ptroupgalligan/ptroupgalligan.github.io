@@ -12,7 +12,7 @@ basic {
   flex-direction: column;
 }
 
-.info {
+info {
   padding: 30px;
   background-color: blue;
 }
