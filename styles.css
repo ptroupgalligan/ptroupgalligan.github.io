@@ -6,7 +6,10 @@ height: 338 px;
 }  
 
 .basic {
-  align-items: center
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .info {
