@@ -1,3 +1,9 @@
+.container: {background-color: pink}
+
+img {  
+width: 216px;
+height: 338 px; 
+}  
 
 basic {
   background-color: pink;
@@ -6,8 +12,6 @@ basic {
   flex-direction: column;
 }
 
-info {
-  padding: 30px;
-  background-color: blue;
+.info {
+  padding: 20px;
 }
-
