@@ -1,15 +1,15 @@
-container: {background-color: black}
+.container: {background-color: pink}
 
 img {  
 width: 216px;
 height: 338 px; 
 }  
 
-basic {
-  align: center
+.basic {
+  align-items: center
 }
 
-info {
+.info {
   padding: 100px;
 }
 
